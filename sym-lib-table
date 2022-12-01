@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "AD8041")(type "KiCad")(uri "${KIPRJMOD}/lib/AD8041.kicad_sym")(options "")(descr ""))
+  (lib (name "RKJXL100401V")(type "KiCad")(uri "${KIPRJMOD}/lib/RKJXL100401V.kicad_sym")(options "")(descr ""))
+)
