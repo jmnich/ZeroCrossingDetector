@@ -1,24 +1,24 @@
 Circuit: * C:\Users\JakubMnich\OneDrive\Tech\ZeroCrossDetector\sim.asc
 
 Direct Newton iteration for .op point succeeded.
-.step rfb=47000
-.step rfb=100000
-.step rfb=1e+008
+.step rfb=1e+006
+.step rfb=2e+006
+.step rfb=1e+007
 
-Date: Thu Dec 01 10:54:14 2022
-Total elapsed time: 1.210 seconds.
+Date: Fri Dec 02 14:27:43 2022
+Total elapsed time: 5.941 seconds.
 
 tnom = 27
 temp = 27
 method = modified trap
-totiter = 53356
-traniter = 53348
-tranpoints = 17045
-accept = 11926
-rejected = 5119
+totiter = 323699
+traniter = 323691
+tranpoints = 130763
+accept = 118670
+rejected = 12093
 matrix size = 17
 fillins = 5
 solver = Normal
 Matrix Compiler1: 1.42 KB object code size  0.3/0.1/[0.1]
-Matrix Compiler2: 1.51 KB object code size  0.1/0.2/[0.1]
+Matrix Compiler2: off  [0.1]/0.2/0.1
 
